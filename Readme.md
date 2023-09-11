@@ -1,1 +1,1 @@
-# Calculadora básica feia em Python
+# Calculadora básica feita em Python
